@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/luna/.dotnet/store/|arch|/|tfm|",
+      "/Users/luna/.nuget/packages"
+    ]
+  }
+}

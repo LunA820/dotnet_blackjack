@@ -1,0 +1,7 @@
+/Users/luna/Desktop/Projects/Web/netBlackjack/Fsm-Blackjack/Fsm-Blackjack/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.Development.json
+/Users/luna/Desktop/Projects/Web/netBlackjack/Fsm-Blackjack/Fsm-Blackjack/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.json
+/Users/luna/Desktop/Projects/Web/netBlackjack/Fsm-Blackjack/Fsm-Blackjack/obj/Release/netcoreapp3.1/PubTmp/Out/Fsm-Blackjack.dll
+/Users/luna/Desktop/Projects/Web/netBlackjack/Fsm-Blackjack/Fsm-Blackjack/obj/Release/netcoreapp3.1/PubTmp/Out/Fsm-Blackjack.deps.json
+/Users/luna/Desktop/Projects/Web/netBlackjack/Fsm-Blackjack/Fsm-Blackjack/obj/Release/netcoreapp3.1/PubTmp/Out/Fsm-Blackjack.runtimeconfig.json
+/Users/luna/Desktop/Projects/Web/netBlackjack/Fsm-Blackjack/Fsm-Blackjack/obj/Release/netcoreapp3.1/PubTmp/Out/Fsm-Blackjack.pdb
+/Users/luna/Desktop/Projects/Web/netBlackjack/Fsm-Blackjack/Fsm-Blackjack/obj/Release/netcoreapp3.1/PubTmp/Out/Newtonsoft.Json.dll

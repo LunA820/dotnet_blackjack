@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1B71EF3F-F351-4B61-A0D7-183A6A9D78B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fsm-Blackjack PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fsm-Blackjack/Model/Game.cs">
+    <Files>
+      <File FileName="Fsm-Blackjack/Controllers/BlackjackController.cs" Line="4" Column="1" />
+      <File FileName="Fsm-Blackjack/Model/Player.cs" Line="15" Column="1" />
+      <File FileName="Fsm-Blackjack/Startup.cs" Line="12" Column="53" />
+      <File FileName="Fsm-Blackjack/Model/Game.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fsm-Blackjack" expanded="True">
+            <Node name="Fsm-Blackjack" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Game.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="LunaApi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/luna/Desktop/Projects/Web/netBlackjack/Fsm-Blackjack/Fsm-Blackjack/obj/Release/netcoreapp3\.1/PubTmp/Out/$" />
+  </parameter>
+</parameters>
